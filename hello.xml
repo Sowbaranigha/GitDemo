@@ -1,3 +1,4 @@
 <root>
-<message>Main: Hello from main branch</message>
+  <message>Main: Hello from main branch</message>
+  <message>Branch: Hello from GitWork</message>
 </root>
